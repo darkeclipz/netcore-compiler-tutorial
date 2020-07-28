@@ -1,0 +1,13 @@
+C:\Users\Lars\Documents\Repos\Minsk\bin\Debug\netcoreapp3.1\Minsk.exe
+C:\Users\Lars\Documents\Repos\Minsk\bin\Debug\netcoreapp3.1\Minsk.deps.json
+C:\Users\Lars\Documents\Repos\Minsk\bin\Debug\netcoreapp3.1\Minsk.runtimeconfig.json
+C:\Users\Lars\Documents\Repos\Minsk\bin\Debug\netcoreapp3.1\Minsk.runtimeconfig.dev.json
+C:\Users\Lars\Documents\Repos\Minsk\bin\Debug\netcoreapp3.1\Minsk.dll
+C:\Users\Lars\Documents\Repos\Minsk\bin\Debug\netcoreapp3.1\Minsk.pdb
+C:\Users\Lars\Documents\Repos\Minsk\obj\Debug\netcoreapp3.1\Minsk.csprojAssemblyReference.cache
+C:\Users\Lars\Documents\Repos\Minsk\obj\Debug\netcoreapp3.1\Minsk.AssemblyInfoInputs.cache
+C:\Users\Lars\Documents\Repos\Minsk\obj\Debug\netcoreapp3.1\Minsk.AssemblyInfo.cs
+C:\Users\Lars\Documents\Repos\Minsk\obj\Debug\netcoreapp3.1\Minsk.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\Repos\Minsk\obj\Debug\netcoreapp3.1\Minsk.dll
+C:\Users\Lars\Documents\Repos\Minsk\obj\Debug\netcoreapp3.1\Minsk.pdb
+C:\Users\Lars\Documents\Repos\Minsk\obj\Debug\netcoreapp3.1\Minsk.genruntimeconfig.cache
